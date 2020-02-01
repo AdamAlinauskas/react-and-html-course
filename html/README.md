@@ -1,4 +1,4 @@
-# [ComIT](http://comit.org) Oz 2019 React Curriculum
+# [HTML]
 
 ## Table of Contents
 
