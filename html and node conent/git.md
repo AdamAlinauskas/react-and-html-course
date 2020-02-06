@@ -14,7 +14,7 @@
     ```
 * [Configure Git name and email](https://help.github.com/articles/setting-your-commit-email-address-in-git/)
     ```bash
-    git config --global user.name <github userID>
+    git config --global user.name <Your Name>
     git config --global user.email <github email>
     ```
 * To configure our Git/Github project we'll need to use our [command line interface](https://en.wikipedia.org/wiki/Command-line_interface)
